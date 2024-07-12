@@ -1,0 +1,14 @@
+sample-java-app/
+├── Jenkinsfile
+├── Dockerfile
+├── k8s/
+│   ├── deployment.yaml
+│   ├── service.yaml
+├── src/
+│   └── main/
+│       └── java/
+│           └── com/
+│               └── example/
+│                   └── App.java
+├── pom.xml
+├── README.md
